@@ -1,2 +1,2 @@
 # venvtest
-Das Git zu meinem ersten funktionsfähigen Virtual Environment
+Willkommen in meinem ersten Git Repo inklusive PyVenv - Mit PowerShell installiert (Chocholatey ist toll!)
